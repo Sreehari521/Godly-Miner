@@ -3,6 +3,7 @@ body{
 }
 button{
   float:bottom;
+  margin-top:500px;
 }
 h1{
   font-weight:bold;
