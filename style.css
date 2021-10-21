@@ -2,10 +2,11 @@ body{
   text-align:center;
 }
 #start{
-  font-size:20px;
-  margin-top:500px;
+  font-size:25px;
+  margin-top:450px;
 }
 h1{
   font-weight:bold;
   text-align:center;
+  color:linear-gradient("yellow" 30%, "blue" 70%, "green" 100%);
 }
