@@ -3,6 +3,7 @@ span, p{
 }
 span{
 margin-left:50px;
+  display:inline;
 }
 div{
 text-align:center;
