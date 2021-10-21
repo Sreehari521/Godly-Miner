@@ -8,5 +8,6 @@ body{
 h1{
   font-weight:bold;
   text-align:center;
-  color:linear-gradient("yellow" 30%, "blue" 70%, "green" 100%);
+  background-color:linear-gradient("yellow" 30%, "blue" 70%, "green" 100%);
+  width:200px;
 }
