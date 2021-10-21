@@ -7,6 +7,7 @@ body{
 h1{
   font-weight:bold;
   text-align:center;
-  background-color:linear-gradient("yellow" 30%, "blue" 70%, "green" 100%);
+  color:blue;
   width:200px;
+  font-size:35px;
 }
