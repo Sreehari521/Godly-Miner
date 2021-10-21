@@ -3,6 +3,8 @@ body{
 }
 #start{
   font-size:25px;
+  background-color:green; 
+  color:white;
 }
 h1{
   font-weight:bold;
