@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+body{
+text-align:center;
+background-image:linear-gradient(gray 20%, red 24%, gray 30%, yellow 40%, gray 50%, green 70%, gray 85%, blue 100%);
+}
+span, p{
+  font-size:20px;
+}
+span{
+margin-left:50px;
+  display:inline;
+}
+div{
+text-align:center;
+}
+img{
+width: 300px;
+height: 170px;
+}
